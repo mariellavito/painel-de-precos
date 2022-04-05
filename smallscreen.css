@@ -1,0 +1,18 @@
+@media screen and (max-width: 900px){
+
+    body {
+        background-color: white;
+    }
+
+    .panel {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+
+    .pricing-plan {
+        width: 50%;
+        margin: 2rem 0;
+    }
+
+}
